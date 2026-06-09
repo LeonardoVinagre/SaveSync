@@ -1,0 +1,35 @@
+{
+	"Version": 1,
+	"WorldDescription":
+	{
+		"islandId": "5188C832831343B37E97EAAC28E205E0",
+		"WorldName": "O arquipélago",
+		"CreationTime": 6.3916382560568e+17,
+		"WorldPresetType": "Custom",
+		"WorldSettings":
+		{
+			"BoolParameters":
+			{
+				"{\"TagName\": \"WDS.Parameter.Coop.SharedQuests\"}": true,
+				"{\"TagName\": \"WDS.Parameter.EasyExplore\"}": false
+			},
+			"FloatParameters":
+			{
+				"{\"TagName\": \"WDS.Parameter.MobHealthMultiplier\"}": 0.55000000000000004,
+				"{\"TagName\": \"WDS.Parameter.MobDamageMultiplier\"}": 2.5,
+				"{\"TagName\": \"WDS.Parameter.ShipsHealthMultiplier\"}": 1,
+				"{\"TagName\": \"WDS.Parameter.ShipsDamageMultiplier\"}": 2,
+				"{\"TagName\": \"WDS.Parameter.BoardingDifficultyMultiplier\"}": 1,
+				"{\"TagName\": \"WDS.Parameter.Coop.StatsCorrectionModifier\"}": 1,
+				"{\"TagName\": \"WDS.Parameter.Coop.ShipStatsCorrectionModifier\"}": 0
+			},
+			"TagParameters":
+			{
+				"{\"TagName\": \"WDS.Parameter.CombatDifficulty\"}":
+				{
+					"TagName": "WDS.Parameter.CombatDifficulty.Normal"
+				}
+			}
+		}
+	}
+}
